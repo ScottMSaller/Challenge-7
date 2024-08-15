@@ -1,8 +1,8 @@
 
   # README.md Creator
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-  
+
   ## Description
   This project has been created to make markdown files from user input. It uses inquirer.js to deliver prompts to the user through the CLI and returns a README.md file to the user.
 
@@ -26,9 +26,9 @@
 
   ## License
   
-    This project has a MIT license.
-    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-    https://opensource.org/licenses/MIT
+This project has a Apache-2.0 license.
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+https://opensource.org/licenses/Apache-2.0
   
 
 

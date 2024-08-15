@@ -32,14 +32,14 @@ function renderLicenseLink(license) {
 function renderLicenseSection(license) {
   if (license === 'None'){
     return `
-    This project does not have a license
+This project does not have a license
     `
   }
   else{
     return `
-    This project has a ${license} license.
-    ${renderLicenseBadge(license)}
-    ${renderLicenseLink(license)}
+This project has a ${license} license.
+${renderLicenseBadge(license)}
+${renderLicenseLink(license)}
   `
   }
   
@@ -51,7 +51,7 @@ function generateMarkdown(data) {
   # ${data.title}
   ${renderLicenseBadge(data.license)}
 
-  
+
   ## Description
   ${data.description}
 
