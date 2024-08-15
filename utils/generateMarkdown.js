@@ -51,7 +51,7 @@ function generateMarkdown(data) {
   # ${data.title}
   ${renderLicenseBadge(data.license)}
 
-
+  
   ## Description
   ${data.description}
 
@@ -74,7 +74,6 @@ function generateMarkdown(data) {
 
 
   ## License
-
   ${renderLicenseSection(data.license)}
 
 
