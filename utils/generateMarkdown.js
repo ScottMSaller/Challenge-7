@@ -37,9 +37,9 @@ This project does not have a license
   }
   else{
     return `
-This project has a ${license} license.
-${renderLicenseBadge(license)}
-${renderLicenseLink(license)}
+This project has a ${license} license. \n
+${renderLicenseBadge(license)} \n
+${renderLicenseLink(license)} \n
   `
   }
   

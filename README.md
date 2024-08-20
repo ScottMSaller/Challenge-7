@@ -1,6 +1,6 @@
 
   # README.md Creator
-  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
   ## Description
@@ -26,9 +26,12 @@
 
   ## License
   
-This project has a Apache-2.0 license.
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-https://opensource.org/licenses/Apache-2.0
+This project has a MIT license. 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+
+https://opensource.org/licenses/MIT 
+
   
 
 
